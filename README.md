@@ -18,7 +18,7 @@ detach from a screen
     
     screen -d 
     ctrl+A+D
-> if you connected to the scree this will KILL IT if there's nothing running like and endless process
+    > if you connected to the screen this will KILL IT if there's nothing running like and endless process
 
 kill screen
     

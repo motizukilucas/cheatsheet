@@ -5,6 +5,9 @@
 ## Terraform
     terraform destroy -target module.compartment_demo
     
+## K8S
+	kubectl rollout restart deployment your_deployment
+    
 ## Screen (Linux)
 list screens:
 	
